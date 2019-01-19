@@ -1,8 +1,8 @@
-# Trabalho desenvolvido para disciplina de Algoritmos e Estruturas de Dados 2
-
-Corretor automático feito para disciplina de AED2 em 2017/2
-
 # Corretor Ortográfico
+
+Trabalho desenvolvido para disciplina de Algoritmos e Estruturas de Dados 2 em 2017/2
+
+# Descrição
 
 Nesta tarefa você implementará um corretor ortográfico simples. Seu programa receberá como entrada uma palavra e informará se a palavra está correta, se ela está escrita incorretamente ou se ela não existe. Após o retorno, o usuário terá a opção de aceitar a correção ou indicar que a palavra original está correta e o dicionário deve ser atualizado com a palavra nova. 
 Naturalmente, isso deve ser feito de maneira eficiente, uma vez que potencialmente milhões de palavras devem ser verificadas em um longo texto. Esta é uma situação onde Tabelas Hash são úteis e você deverá implementar uma para solucionar o problema.
