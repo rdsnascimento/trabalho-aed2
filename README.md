@@ -56,7 +56,3 @@ O nome do seu arquivo fonte deve seguir o padrão NomeSobrenome.[c|cpp]. Em adi�
 
 # Código de Honra
 O trabalho é individual e deve ser implementado na sua totalidade, sem uso de bibliotecas prontas (fora as bibliotecas padrões - STL não deve ser utilizada) ou código de outros (colegas ou não). O trabalho enviado deve representar um esforço honesto em resolver o problema - isto é, não é algo "pela metade", que não implementa funcionalidades essenciais. Violações a esta conduta serão penalizadas e o violador não só terá nota nula neste trabalho, mas também não terá direito a enviar os próximos trabalhos, ficando portanto sem parte da nota da disciplina. Plágios estão sujeitos a sanções administrativas pelo colegiado do curso.
-
-# Data de entrega
-21 27 de novembro de 2017.
-Cada dia de atraso reduzirá em 10% a nota obtida.
