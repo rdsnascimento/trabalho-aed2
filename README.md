@@ -1,6 +1,6 @@
 # Corretor Ortográfico
 
-Trabalho desenvolvido para disciplina de Algoritmos e Estruturas de Dados 2 em 2017/2
+Trabalho desenvolvido para disciplina de Algoritmos e Estruturas de Dados 2 (AED2) em 2017/2.
 
 # Descrição
 
